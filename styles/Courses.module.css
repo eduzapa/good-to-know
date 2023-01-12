@@ -1,0 +1,10 @@
+.section{
+    width: 70vw;
+    border-style: solid;
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing:border-box
+
+}
