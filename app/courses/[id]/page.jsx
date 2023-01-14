@@ -19,7 +19,8 @@ export default async function episodeDetail ({params}){
                 <div className={styles.leftPart}>
                     <div className={styles.contentBlock}>
                         <div className={styles.videoContainer}>
-                            <img src="https://www.freecodecamp.org/espanol/news/content/images/2021/01/Course-Image-1.png" alt="" />
+                        <iframe src="https://www.youtube.com/embed/l3PcjG-rfps?autoplay=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen/>                        
+                            {/* <img src="https://www.freecodecamp.org/espanol/news/content/images/2021/01/Course-Image-1.png" alt="" /> */}
                         </div>
                         <div className={styles.episodesBlock}>
                             <span>Lessons</span>
