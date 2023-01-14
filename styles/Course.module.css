@@ -1,0 +1,70 @@
+.main{
+    width: 100vw;
+    display: flex;
+    margin-top: 5vh;
+    height: 86.83vh;
+    display: flex;
+    flex-direction: row;
+}
+.leftPart{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.contentBlock{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.videoContainer img{
+    width: 100%;
+}
+.episodesBlock{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    column-gap: 1%;
+    row-gap: 15%;
+    margin-top: 5vh;
+    
+}
+.episodesBlock span{
+    grid-column: 1/6;
+
+}
+.rightPart{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.title{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+
+}
+.authorBlock{
+    display: flex;
+    align-items: center;
+}
+.authorBlock img{
+    width: 10vw;
+    height: 10vh;
+    border-radius: 20px;
+    margin-right: 3vw;
+}
+.authorBlock span{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+}
+.descriptionBlock{
+    margin-right: 5vw;
+}
+.buttonBlockPart{
+    margin-top: 5vh;
+}

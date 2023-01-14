@@ -47,6 +47,9 @@
     background-color: #484BF2;
     color: white;
 }
+.exploreButton button:hover{
+    cursor: pointer;
+}
 .containerTitleCourses{
     width: 91vw;
 }

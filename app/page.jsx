@@ -27,7 +27,9 @@ export default async function HomePage (){
                         Decied the topic to learn, choose the teacher and start the course
                     </p>
                     <div className={styles.exploreButton}>
-                        <RoundedButton mensaje={"Explore"}></RoundedButton>
+                        <Link href="/courses">
+                            <RoundedButton mensaje={"Explore"}></RoundedButton>
+                        </Link>
                     </div>
                     
                 </div>

@@ -17,11 +17,13 @@ export default function Navigation (){
                     <li><Link href="/courses">Courses</Link></li>
                 </ul>
                 <div className={styles.buttons}>
-                    <div className={styles.buttonWhite} >
-                        <RoundedButton mensaje={"login"} />
+                    <div className={styles.buttonWhite}>
+                        <Link href="/login">
+                            <RoundedButton mensaje={"logIn"} />
+                        </Link>
                     </div>
                     <div className={styles.buttonPurple}>
-                        <Link href="/courses">
+                        <Link href="/singup">
                             <RoundedButton mensaje={"singUp"}/>
                         </Link>
                        
