@@ -1,0 +1,72 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[3]!./styles/Courses.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************/
+.Courses_section__VHaZu{
+    width: 70vw;
+    border-style: solid;
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing:border-box
+
+}
+.Courses_mainPart__aorw9{
+    width: 100vw;
+    display: flex;
+    margin-top: 5vh;
+}
+.Courses_leftPart__tKPGw{
+    width: 20vw;
+    height: 86.83vh;
+    display: flex;
+    align-items: center;
+}
+.Courses_rightPart__sdwHn{
+    width: 80vw;
+    height: 70vh;
+}
+.Courses_courses__93VM8{
+    width: 80%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 5vh;
+    row-gap: 5vh;
+}
+.Courses_containerCourses__6t9FF{
+    display: flex;
+    justify-content: center;
+    width: 80vw;
+}
+.Courses_titleGrid__hOElP{
+    grid-column: 1/4;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+}
+.Courses_lateralBar__QUs1L{
+    border-right-style: solid;
+    border-right-color: black;
+    height: 85%;
+    width: 100%;
+    background-color: none;
+    margin-left: 4vw;
+}
+.Courses_filter__6BJdx li{
+    list-style: none;
+    font-style: light;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+}
+.Courses_filter__6BJdx ul{
+    padding: 0px;
+}
+.Courses_titleFilter__fNDUr{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+}

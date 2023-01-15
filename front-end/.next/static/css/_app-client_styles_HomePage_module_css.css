@@ -1,0 +1,68 @@
+/*!********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[3]!./styles/HomePage.module.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************/
+.HomePage_purpleSlogan__MNCEj{
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+    color: #484BF2;
+}
+.HomePage_slogan__ENuzn{
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+}
+.HomePage_p__EcPtr{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    width: 38vw;
+    margin-top: 6vh;
+}
+.HomePage_popularCourses__0q5Bo{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2vh;
+}
+.HomePage_popularCourses__0q5Bo a{
+    width: 25vh;
+    height: 20vh;
+}
+.HomePage_bigImg__WkYVj{
+    width: 50vw;
+}
+.HomePage_mainPart__ACTPX{
+    display: flex;
+    justify-content: space-between;
+}
+.HomePage_textArea__326hx{
+    margin-left: 4vw;
+    margin-top: 6vh;
+}
+.HomePage_containerPopularCourses__MEkzo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.HomePage_exploreButton__TbV15 button{
+    background-color: #484BF2;
+    color: white;
+}
+.HomePage_exploreButton__TbV15 button:hover{
+    cursor: pointer;
+}
+.HomePage_containerTitleCourses__xat9j{
+    width: 90vw;
+}
+.HomePage_span__Rk36t{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+}

@@ -1,0 +1,34 @@
+La conexion se tiene que realizar mediante FLASK
+
+Conexiones:
+- acceso a los datos de cada curso por id, devolviendo toda la info del curso y los titulos de los videos asociados al curso (Hecho)
+- devolver el archivo de video atraves del id de video (Hecho)
+- listar todos los cursos (Hecho)
+- devolver los primeros 5 cursos de la base de datos (Hecho)
+- metodo para hacer el login (Hecho)
+- metodo para hacer un sign-up (Hecho)
+- editar usuario (Hecho)
+
+delvolver en formato JSON
+
+
+BASE DE DATOS:
+curso: 
+	PK_id
+	nombre
+	descripcion
+	FK_videos
+	imagen
+	creador
+video:
+	PK_id_video
+	fichero_video.avi
+	titulo
+	FK_curso
+usuario:
+	PK_nombreUsuario
+	nombre
+	apellido
+	correo
+	contraseña
+	

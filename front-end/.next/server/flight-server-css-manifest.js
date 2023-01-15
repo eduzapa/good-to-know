@@ -1,0 +1,20 @@
+self.__RSC_CSS_MANIFEST={
+  "__entry_css_mods__": {
+    "/Users/eduardo/Documents/trabajo/good-to-know/front-end/app/page": [
+      "/Users/eduardo/Documents/trabajo/good-to-know/front-end/components/RoundedButton.module.css",
+      "/Users/eduardo/Documents/trabajo/good-to-know/front-end/components/Navigation.module.css",
+      "/Users/eduardo/Documents/trabajo/good-to-know/front-end/components/CourseIcon.module.css",
+      "/Users/eduardo/Documents/trabajo/good-to-know/front-end/styles/HomePage.module.css",
+      "/Users/eduardo/Documents/trabajo/good-to-know/front-end/styles/globalStyle.css"
+    ]
+  },
+  "/Users/eduardo/Documents/trabajo/good-to-know/front-end/app/page.jsx": [
+    "/Users/eduardo/Documents/trabajo/good-to-know/front-end/components/RoundedButton.module.css",
+    "/Users/eduardo/Documents/trabajo/good-to-know/front-end/components/Navigation.module.css",
+    "/Users/eduardo/Documents/trabajo/good-to-know/front-end/styles/HomePage.module.css",
+    "/Users/eduardo/Documents/trabajo/good-to-know/front-end/components/CourseIcon.module.css"
+  ],
+  "/Users/eduardo/Documents/trabajo/good-to-know/front-end/app/layout.js": [
+    "/Users/eduardo/Documents/trabajo/good-to-know/front-end/styles/globalStyle.css"
+  ]
+}

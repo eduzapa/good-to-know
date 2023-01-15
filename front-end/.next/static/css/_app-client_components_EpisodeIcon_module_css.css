@@ -1,0 +1,42 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[3]!./components/EpisodeIcon.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+.EpisodeIcon_container__RiNoL{
+    width: 13vh;
+    height: 12vh;
+    position: relative;
+    border-radius: 15px;
+    
+}
+.EpisodeIcon_container__RiNoL img{
+    width: 100%;
+    height: 80%;
+    position: absolute;
+    Top: 0;
+    border-radius: 15px;
+    box-shadow: 0px 1px 10px 2px rgba(0, 0, 0, 0.25);
+}
+.EpisodeIcon_textSection__RHVIc{
+    
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 20%;
+    z-index: 1;
+    background-color: none;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 8px;
+    line-height: 18px;
+    letter-spacing: 0.065em;
+    
+}
+
+
+
