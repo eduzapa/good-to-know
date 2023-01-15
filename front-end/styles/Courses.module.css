@@ -1,0 +1,68 @@
+.section{
+    width: 70vw;
+    border-style: solid;
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing:border-box
+
+}
+.mainPart{
+    width: 100vw;
+    display: flex;
+    margin-top: 5vh;
+}
+.leftPart{
+    width: 20vw;
+    height: 86.83vh;
+    display: flex;
+    align-items: center;
+}
+.rightPart{
+    width: 80vw;
+    height: 70vh;
+}
+.courses{
+    width: 80%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 5vh;
+}
+.containerCourses{
+    display: flex;
+    justify-content: center;
+    width: 80vw;
+}
+.titleGrid{
+    grid-column: 1/4;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+}
+.lateralBar{
+    border-right-style: solid;
+    border-right-color: black;
+    height: 85%;
+    width: 100%;
+    background-color: none;
+    margin-left: 4vw;
+}
+.filter li{
+    list-style: none;
+    font-style: light;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+}
+.filter ul{
+    padding: 0px;
+}
+.titleFilter{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+}
